@@ -5,3 +5,4 @@ resources:
   - dashboard.yml
   - namespace.yml
   - deployment.yml
+  - account.yml
